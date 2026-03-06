@@ -57,8 +57,8 @@ https://oauth.vk.com/blank.html#access_token=vk1.a.XXXXXXXXXXXX&expires_in=0&use
 2. Вставьте свои данные:
 
 ```javascript
-const token = "ВАШ_ACCESS_TOKEN";
-const owner_id = "ВАШ_ID";
+const token = "здесь access_token";
+const owner_id = "здесь user_id";
 ```
 
 3. Откройте свою страницу ВКонтакте
